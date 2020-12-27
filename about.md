@@ -5,7 +5,7 @@ menu: About
 permalink: /about/
 ---
 
-<img src= "/images/about.jpeg" width="250px" height="200px" border-radius="8px">
+<img src= "/images/about-me.jpg" width="250px" height="300px" border-radius="8px">
 
 ## Hey, I'm Jithin  ,
 
