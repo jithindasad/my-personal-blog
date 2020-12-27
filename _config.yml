@@ -17,8 +17,8 @@ title: My Random Ramblings
 email: hello@jithindas.me
 description: >- # this means to ignore newlines until "baseurl:"
   My little corner in the internet.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jithindas.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamjithindas
 github_username:  jithindasad
 

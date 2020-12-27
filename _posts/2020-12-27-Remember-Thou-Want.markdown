@@ -4,7 +4,7 @@ title:  "Remember Though Want!"
 date:   2020-12-27 14:37:33 +0530
 categories: personal
 ---
-![Thoughts](/assets/images/thoughts.jpg)
+![Thoughts](/images/thoughts.jpg)
 
 
 I’m a Nobody trying to build something out of nothing and the odds are well against me. Chances are I may fail and It may well destroy me as I’m nothing but compounding failure with no growth gained from each.
