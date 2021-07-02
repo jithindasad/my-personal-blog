@@ -17,4 +17,4 @@ I don’t [call myself a programmer](https://www.kalzumeus.com/2011/10/28/dont-c
 
 I'm interested in [remote work](https://remoters.net/remote-work-trends-future-insights/) and is fascinated by the idea of working from wherever I want (Hate Cubicles). Apart from this I love reading books [goodreads](https://www.goodreads.com/user/show/108741351-jithin-das) and bugging my little sister.
 
-Say hello: *hello@jithindas.me*
+Say hello: *jithindasad@gmail.com*
